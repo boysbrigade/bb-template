@@ -4,3 +4,6 @@ h1 {
 html {
     background-color: black;
 }
+img.logo {
+    max-width: 100%;
+}
